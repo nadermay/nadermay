@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadermay
 - 👀 I’m interested in learning coding and going to the gym
 - 🌱 I’m currently learning html/css/java/js
-- 💞️ I’m looking to collaborate on anthing i wanna learn 
+- 💞️ I’m looking to collaborate on anything i wanna learn 
 - 📫 How to reach me : maynader08@gmail.com
 
 <!---
