@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nader May</h1>
 <h3 align="center">BI Graduate | 📊 Data Enthusiast | 💡 Curious Problem Solver</h3>
 
-- 🔭 I’m currently working on [Leoni Platformer](https://github.com/nadermay/Leoni)
+- 🔭 I’m currently working on [SEO organic traffic Platformer](https://github.com/nadermay/OrgTra)
 
 - 🌱 I’m currently learning **course of Network Basics from cisco**
 
