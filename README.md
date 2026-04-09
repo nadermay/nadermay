@@ -1,20 +1,22 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> Hey! I'm Nader May </h1>
 
-<h3 align="center"> BI Graduate | 📊 Data Analyst & Web Developer | 💡 Curious Problem Solver </h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=276DC3&center=true&vCenter=true&width=500&lines=BI+Graduate;Data+Analyst+%26+Web+Developer;Curious+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center"> 
-    <a href="https://github.com/nadermay/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/nadermay/nadermay" /></a>
-    <a href="https://github.com/nadermay?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nadermay?color=4C1&logo=github"></a>
-    <a href="https://github.com/nadermay" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nadermay-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="mailto:maynader08@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-maynader08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <img src="https://komarev.com/ghpvc/?username=nadermay&label=Profile%20Views&color=276DC3&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/nadermay/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/nadermay/nadermay?style=flat-square" /></a>
+    <a href="https://github.com/nadermay?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nadermay?color=4C1&logo=github&style=flat-square"></a>
 </p> 
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> Arabic ★★★</td></tr>
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</td></tr>
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Arabic ★★★</td></tr>
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> French ★★★</td></tr>
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> German ★☆☆</td></tr>
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Italian ★☆☆</td></tr>
 </table>
 
@@ -22,7 +24,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently building Dashboards and working on smart web scraping projects.
 
 #### BIO
-- 🏢 Web Developer & Data Analyst based in Dubai, UAE.
+- 🏢 Web Developer & Data Analyst based in Tunisia.
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Data Science-green">, <img src="https://img.shields.io/badge/Machine Learning-red">, and <img src="https://img.shields.io/badge/Business Intelligence-blue">
 - 🌱 Currently learning **Cisco Network Basics**, Cybersecurity (SOC), and Kubernetes.
 - <img align='center' width='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on **Power BI projects** and data engineering solutions.
@@ -49,13 +51,11 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
 <br>
@@ -67,6 +67,14 @@
     <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadermay&theme=jolly&show_icons=true" alt="nadermay streak"/>
 </p>
 </details>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
+<br>
 
 <div align="center">
 <h3> Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
