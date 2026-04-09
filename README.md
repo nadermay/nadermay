@@ -21,7 +21,7 @@
 </table>
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently building Dashboards and working on smart web scraping projects.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently building Dashboards and web site.
 
 #### BIO
 - 🏢 Web Developer & Data Analyst based in Tunisia.
