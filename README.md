@@ -1,86 +1,76 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> Hey! I'm Nader May </h1>
+<div align="center">
+
+<img src="https://i.pinimg.com/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.jpg" width="100%" alt="Header Banner" />
+
+<br><br>
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=nadermay&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/nadermay?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nadermay?color=000000&logo=github&style=for-the-badge"></a>
+    <a href="https://github.com/nadermay"><img alt="Stars" src="https://img.shields.io/github/stars/nadermay?color=000000&style=for-the-badge"></a>
+</p> 
+
+<br>
+
+<h2 align="center">Know About Me</h2>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="30%" align="center" style="border: none;">
+      <img src="https://i.pinimg.com/1200x/52/c1/13/52c113261b11744f4723bd107c4c40d7.jpg" alt="Avatar" width="160" style="border-radius: 15px;" />
+    </td>
+    <td width="70%" style="border: none;">
+      <h3>Hey there! I'm Nader</h3>
+      <p>I'm a Web Developer & Data Analyst from Tunisia, fueled by caffeine and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe through Business Intelligence and Power BI dashboards. By night, I write Python scripts to automate myself out of doing actual work.</p>
+      <p>When I'm not coding, I'm usually forcing an old ASUS laptop into hard labor as my home server, treating my Shopify dropshipping store like a highly stressful Fortune 500 company, or aggressively lifting heavy things at the gym.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Top Projects (built to avoid manual labor)</h2>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="70%" style="border: none;">
+      <p><code><a href="#" style="color: #ffffff; text-decoration: none;">☁️ SMART SCRAPER</a></code> &nbsp; A smart web scraper built with SerpApi, because manually reading through websites to find company info is for peasants.</p>
+      <br>
+      <p><code><a href="#" style="color: #ffffff; text-decoration: none;">🛒 POWER GUDGET</a></code> &nbsp; A dropshipping e-commerce architecture currently testing my sanity and patience.</p>
+      <br>
+      <p><code><a href="#" style="color: #ffffff; text-decoration: none;">🖥️ nSPARK CRM</a></code> &nbsp; A web dev & marketing agency backend that manages my clients better than I manage my sleep schedule.</p>
+    </td>
+    <td width="30%" align="center" style="border: none;">
+      <img src="https://i.pinimg.com/1200x/2e/83/60/2e8360e89eacdf752f66680821b08c78.jpg" alt="Project Visual" width="140" style="border-radius: 15px; filter: grayscale(100%);" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=276DC3&center=true&vCenter=true&width=500&lines=BI+Graduate;Data+Analyst+%26+Web+Developer;Curious+Problem+Solver" alt="Typing SVG" />
+    <a href="https://github.com/nadermay" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nadermay" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:maynader08@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=Gmail&logoColor=white"></a> 
+</p>
+
+<br>
+
+<blockquote>
+  <p>Data models are never finished. They only become slightly less terrible over time.</p>
+  <p>Every DAX query or Python script I write is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.</p>
+</blockquote>
+
+<br>
+
+<h2 align="center">Contribution</h2>
+
+<p align="center">
+  <a href="https://github.com/nadermay">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadermay&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" alt="Nader's Activity Graph" width="80%"/>
   </a>
 </p>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=nadermay&label=Profile%20Views&color=276DC3&style=flat-square" alt="Profile Views" />
-    <a href="https://github.com/nadermay/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/nadermay/nadermay?style=flat-square" /></a>
-    <a href="https://github.com/nadermay?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nadermay?color=4C1&logo=github&style=flat-square"></a>
-</p> 
-
-<table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> Arabic ★★★</td></tr>
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</td></tr>
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> French ★★★</td></tr>
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Italian ★☆☆</td></tr>
-</table>
-
-##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently building Dashboards and web site.
-
-#### BIO
-- 🏢 Web Developer & Data Analyst based in Tunisia.
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Data Science-green">, <img src="https://img.shields.io/badge/Machine Learning-red">, and <img src="https://img.shields.io/badge/Business Intelligence-blue">
-- 🌱 Currently learning **Cisco Network Basics**, Cybersecurity (SOC), and Kubernetes.
-- <img align='center' width='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on **Power BI projects** and data engineering solutions.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Python-yellow">, <img src="https://img.shields.io/badge/E--Commerce-purple">, or dropshipping architecture!
-- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp; Fun fact: When I'm not looking at data, you can usually find me weightlifting at the gym 🏋️‍♂️ or learning to play the piano 🎹.
-
-<br>
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-</p>
-
-<br>
-
-<details>
-<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
-<p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nadermay&theme=jolly&show_icons=true" alt="Nader's Github readme stats">
-    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadermay&theme=jolly&show_icons=true" alt="nadermay streak"/>
-</p>
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
-<br>
-
-<div align="center">
-<h3> Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3> 
-<p align="center">
-    <a href="https://fb.com/nader may" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nader may" height="30" width="40" /></a>
-    <a href="mailto:maynader08@gmail.com" target="_blank"><img alt="Gmail" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-</p>  
 </div>
