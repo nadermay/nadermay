@@ -34,7 +34,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
-      <p><code><a href="#" style="color: #ffffff; text-decoration: none;">☁️ SMART SCRAPER</a></code> &nbsp; A smart web scraper built with SerpApi, because manually reading through websites to find company info is for peasants.</p>
+      <p><code><a href="#" style="color: #ffffff; text-decoration: none;">☁️ SMART Analyser</a></code> &nbsp; A smart Analyser  built with SerpApi</p>
       <br>
       <p><code><a href="#" style="color: #ffffff; text-decoration: none;">🛒 POWER GUDGET</a></code> &nbsp; A dropshipping e-commerce architecture currently testing my sanity and patience.</p>
       <br>
